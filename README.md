@@ -11,7 +11,7 @@ A minimal Spring Boot web interface to trigger automated Playwright (Java) tests
 ## Project Structure
 
 ```bash
-bgpautomation-ui/
+bgp-automation-ui/
 ├── src/
 │   └── main/
 │       ├── java/com/github/ekorhenardo/bgpautomation/ui/
